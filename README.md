@@ -2,7 +2,7 @@
 # Hey 🖐️, I'm vlad-jpeg 🐱‍💻!
 
 ## 🧑‍💻About Me
-<img align="right" height="490" src="./code.png"></img>
+<img align="right" height="487" src="./code.png"></img>
 #### Hi, **I'm Vladislav Sidorkin .NET backend Developer** living in  **Ufa, Russia**.
 
 #### I've been developing **backend services** and containerized microservices for over 3 years. I am doing containerization and orchestration of **microservices**. Also i implement **CI\CD pipelines**.
