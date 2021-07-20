@@ -11,8 +11,9 @@
 
 #### I develop tests and various health monitoring tools: **end-to-end, unit, integration, healh checking**. Maintain documentation, diagrams (Star UML, MS Visio).
 
-#### I keep my finger on the pulse of new technologies. I take the best practices from various projects and am not afraid to try new things. I like to discuss new versions of the technologies used and to study together.
 <div align="right">Look at my VS Code theme 🗿🗿🗿 </div>
+
+#### I keep my finger on the pulse of new technologies. I take the best practices from various projects and am not afraid to try new things. I like to discuss new versions of the technologies used and to study together.
 
 ## 🌄 Languages and Tools
 
