@@ -47,10 +47,9 @@
 
 ## 📉Stats
 
- <code><div align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad-jpeg&hide=html&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div><div align="left">
-![vlad-jpeg's github stats](https://github-readme-stats.vercel.app/api?username=vlad-jpeg&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&hide_title=false)</div>
-</code>
+
+![vlad-jpeg's github stats](https://github-readme-stats.vercel.app/api?username=vlad-jpeg&show_icons=true&hide_border=false&theme=gruvbox&count_private=true&hide_title=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad-jpeg&hide=html&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### *PS. Most of the projects were implemented under the NDA in closed repositories. Here are just my practices using the new version of dotnet.*
 
