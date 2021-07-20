@@ -1,9 +1,9 @@
 
 # Hey 🖐️, I'm vlad-jpeg 🐱‍💻!
 
-<code>
+
 <div align="right">...................Look at my vscode theme🗿🗿🗿......................</div><img align="right" height="490" src="./code.png"></img>
-</code>
+
 
 ## 🧑‍💻About Me
 
